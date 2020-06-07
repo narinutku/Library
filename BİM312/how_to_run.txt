@@ -1,0 +1,1 @@
+Click to MainWindow.py or write python MainWindow.py on cmd 
